@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla", 01. Zee Bangla SD
+http://khulnalive.anytv.live:8080/zeebangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla", 02.Zee Bangla HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla", Zee Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="Bangladeshi",EKATTOR TV HD
+http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi",MY TV HD
+http://103.214.202.218:8081/live/mytv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla",Sony Aath
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",Sony MAX
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi",Sony Max HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="Bangladeshi",ATN NEWS
+http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="Bangladeshi",Desh TV
+http://103.141.66.36/bpk-tv/10038/default/index.m3u8
