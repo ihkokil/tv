@@ -1,41 +1,190 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
 https://amarnettv.github.io/channels/deepto.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="MOVIE BAZAR TV",MB_Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMR BD LIVE",AMR_DEEPTO TV HD [BD]
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="KITV LIVE",KI_DEEPTO TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
 http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
 http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="ROAR ZONE IPTV",Deepto TV
 http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMR BD LIVE",AMR_DEEPTO TV HD [BD]
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="KITV LIVE",KI_DEEPTO TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
 http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="ROAR ZONE IPTV",Deepto TV
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMR BD LIVE",AMR_DEEPTO TV HD [BD]
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="KITV LIVE",KI_DEEPTO TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX TV SERVERS",1_DEEPTO TV [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX TV SERVERS",3_DEEPTO TV HD [BD]
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX TV SERVERS",4_DEEPTO TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",DEEPTO TV [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMRBD LIVE",DEEPTO TV HD [BD]
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="CTG IPTV",DEEPTO TV [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/109.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="KS",Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BOL",Deepto TV
+https://bol.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Jadoo",Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="TeleLive",Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC 2",Deepto TV
+http://103.205.133.14/hls/deeptotv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC 3",Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="KITV",Deepto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="EBox2",Deepto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="FTPBD",Deepto TV
+http://otv.ftpbd.net/streams/120/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="AmrBD",Deepto TV
+http://ddn.amrbd.com:8081/live/deepto/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BCN",Deepto TV
+http://103.244.140.20:8080/deepto/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Pioneer",Deepto TV
+http://pioneer.anytv.live:8080/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="IBox",Deepto TV
+http://103.135.208.14/live/ibox/bd/29.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Others",Deepto TV
+http://cdn.banglatv.xyz/beeiptv-stb/deepto/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="KS",Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BOL",Deepto TV
+https://bol.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Jadoo",Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="TeleLive",Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC 2",Deepto TV
+http://103.205.133.14/hls/deeptotv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC 3",Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="KITV",Deepto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="EBox2",Deepto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="FTPBD",Deepto TV
+http://otv.ftpbd.net/streams/120/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="AmrBD",Deepto TV
+http://ddn.amrbd.com:8081/live/deepto/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BCN",Deepto TV
+http://103.244.140.20:8080/deepto/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Pioneer",Deepto TV
+http://pioneer.anytv.live:8080/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="IBox",Deepto TV
+http://103.135.208.14/live/ibox/bd/29.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Others",Deepto TV
+http://cdn.banglatv.xyz/beeiptv-stb/deepto/chunks.m3u8
+#EXTINF:-1,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1,Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:-1,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="KS",Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BOL",Deepto TV
+https://bol.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Jadoo",Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="TeleLive",Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC 2",Deepto TV
+http://103.205.133.14/hls/deeptotv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC 3",Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="KITV",Deepto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="EBox2",Deepto TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="FTPBD",Deepto TV
+http://otv.ftpbd.net/streams/120/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="AmrBD",Deepto TV
+http://ddn.amrbd.com:8081/live/deepto/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BCN",Deepto TV
+http://103.244.140.20:8080/deepto/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Pioneer",Deepto TV
+http://pioneer.anytv.live:8080/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="IBox",Deepto TV
+http://103.135.208.14/live/ibox/bd/29.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Others",Deepto TV
+http://cdn.banglatv.xyz/beeiptv-stb/deepto/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1,Deepto TV
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1,Deepto TV
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
+#EXTINF:-1,Deepto TV
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0,Deepto TV
+#EXTGRP:unsorted
+#EXTINF:0,Deepto TV
+#EXTGRP:unsorted
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="Bangla",Deepto TV HD
+#EXTGRP:Bangla
+#EXTINF:-1  group-title="BD",DEEPTO TV
+http://starshare.cc:41000/556747/556747/1331
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangladeshi",10.Deepto TV HD
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangladeshi",13.Deepto TV HD
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+http://103.205.133.14/hls/deeptotv.m3u8
+#EXTINF:-1 ,Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:-1 ,Deepto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
+#EXTINF:0 group-title="KS" tvg-logo="https://i.imgur.com/Z13U9Vt.png" ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
