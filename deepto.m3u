@@ -1,0 +1,41 @@
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
+https://amarnettv.github.io/channels/deepto.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="MOVIE BAZAR TV",MB_Deepto TV
+http://45.249.187.238:8081/hls/new22.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMR BD LIVE",AMR_DEEPTO TV HD [BD]
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="KITV LIVE",KI_DEEPTO TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
+http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
+http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Deepto TV
+http://45.249.187.238:8081/hls/new22.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="ROAR ZONE IPTV",Deepto TV
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMR BD LIVE",AMR_DEEPTO TV HD [BD]
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="KITV LIVE",KI_DEEPTO TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
+http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Deepto TV
+http://45.249.187.238:8081/hls/new22.m3u8
