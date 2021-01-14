@@ -20,7 +20,7 @@ http://103.205.133.20/hls/news24.m3u8?token=soheliptv01826655778
 http://103.205.133.20/hls/satv.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangladeshi (Server 1)",5.Channel I
 http://103.205.133.20/hls/ichannel.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi (Server 1)",6.Deepto TV
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi (Server 1)",6. Deepto TV HD
 http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangladeshi (Server 1)",7.CHANNEL 24
 http://103.205.133.20/hls/channel24.m3u8?token=soheliptv01826655778
